@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <icon name="camera" :size="50" color="red" />
+    <Icon name="camera" :size="50" color="red" />
   </div>
 </template>
 
